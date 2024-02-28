@@ -1,7 +1,7 @@
 # Kalkulator
 ## Kalkulator walut
 
-![Kantoor](images/Kantor.png)
+![Kantoor](images/2.png)
 
 https://jargod99.github.io/homepage/
 
